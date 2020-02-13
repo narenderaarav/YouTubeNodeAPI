@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.label {
+  color: rgb(255, 208, 0);
+}
+
+button {
+  margin-top: 20px;
+}
+
+.youtube {
+  height: 80px;
+}
